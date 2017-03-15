@@ -30,6 +30,7 @@ navbar-links:
     - Sitzungen: "fachschaft/sitzungen"
     - Mitmachen: "fachschaft/mitmachen"
     - Kontakt: "fachschaft/kontakt"
+    - Mitglieder: "fachschaft/mitglieder"
   Gremien:
     - Studienkommission: "gremien/studienkommission"
     - Prüfungsausschuss: "gremien/pruefungsausschuss"
