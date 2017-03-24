@@ -24,13 +24,14 @@ description: A virtual proof that name is awesome!
 # List of links in the navigation bar
 navbar-links:
   News: ""
-  Fachschaft:
-    - Über uns: "fachschaft/ueber_uns"
-    - Aufgaben: "fachschaft/aufgaben"
-    - Sitzungen: "fachschaft/sitzungen"
-    - Mitmachen: "fachschaft/mitmachen"
-    - Kontakt: "fachschaft/kontakt"
-    - Mitglieder: "fachschaft/mitglieder"
+  Über uns: "fachschaft/ueber_uns"
+#  Fachschaft:
+#    - Über uns: "fachschaft/ueber_uns"
+#    - Aufgaben: "fachschaft/aufgaben"
+#    - Sitzungen: "fachschaft/sitzungen"
+#    - Mitmachen: "fachschaft/mitmachen"
+#    - Kontakt: "fachschaft/kontakt"
+#    - Mitglieder: "fachschaft/mitglieder"
   Gremien:
     - Studienkommission: "gremien/studienkommission"
     - Prüfungsausschuss: "gremien/pruefungsausschuss"
